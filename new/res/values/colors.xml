@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#ff000000</color>
+    <color name="foreground">#80dfdfdf</color>
+    <color name="text">#ff64dfdf</color>
+    <color name="minorLine">#68646464</color>
+    <color name="majorLine">#ffb0b0b0</color>
+    <color name="selected">#70ffe700</color>
+    <color name="button">#4D4D4D</color>
+    <color name="decimals">#E0E0E0</color>
+</resources>

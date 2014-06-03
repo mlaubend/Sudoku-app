@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="30dip"
+    android:background="@color/background"
+    >
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_gravity="center"
+        android:isScrollContainer="true">
+
+        <TextView
+            android:text="'Sudoku (æ•°ç‹¬), originally called Number Place, is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9Ã—9 grid with digits so that each column, each row, and each of the nine 3Ã—3 sub-grids that compose the grid contains all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which typically has a unique solution.'       -Wikipedia"
+            android:textColor="@color/text"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="25dip"
+            android:textSize="18sp" />
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>
